@@ -1,7 +1,7 @@
 {
-  "name": "01learning_backend",
+  "name": "01firstbackendapp",
   "version": "1.0.0",
-  "description": "a basic app",
+  "description": "a basic backend app",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
