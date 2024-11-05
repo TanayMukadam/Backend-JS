@@ -1,0 +1,21 @@
+{
+  "name": "03backendwithmongoose",
+  "version": "1.0.0",
+  "description": "Backend with Mongoose",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongoose"
+  ],
+  "author": "Tanay Mukadam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.0"
+  }
+}
